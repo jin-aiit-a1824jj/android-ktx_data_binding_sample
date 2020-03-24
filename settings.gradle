@@ -1,0 +1,2 @@
+rootProject.name='DatabindingSampel-KTX'
+include ':app'
